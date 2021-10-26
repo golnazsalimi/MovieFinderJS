@@ -1,0 +1,94 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  background-color: rgb(43, 42, 40);
+  direction: ltr;
+  padding-top: 56px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+#filmTitleSearch {
+  border-color: #6c757d;
+  border-radius: 0.25rem;
+  width: 30%;
+  display: inline;
+}
+.form-control {
+  width: 100%;
+  height: 40px;
+  margin: 20px;
+  padding: 3px 7px;
+  font-size: 17px;
+}
+.searchBar {
+  color: whitesmoke;
+}
+.resultSection {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+}
+.card-title {
+  width: 280px;
+  height: 90px;
+}
+#genre {
+  width: 280px;
+  height: auto;
+}
+.cardRating {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+.cardRatingFilled {
+  background: #d6651a;
+  color: rgb(24, 22, 22);
+  border-radius: 6px;
+  padding: 0 4px;
+  font-size: 14px;
+}
+.movieImg {
+  width: 280 px;
+  height: 400px;
+}
+.favButton {
+  color: red;
+}
+.btn-primary {
+  display: block;
+  color: black;
+  background-color: #acca64;
+  border: 1px solid transparent;
+}
+.loginbox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 800px;
+  background-color: rgb(170, 146, 111);
+}
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.password-form-group--strength-indicators--2OjRm {
+  display: flex;
+  min-height: 16px;
+}
+.password-form-group--strength-indicators--2OjRm {
+  display: flex;
+  min-height: 16px;
+}
+.btn-dark {
+  display: block;
+  color: white;
+  background-color: #455521;
+  border: 1px solid transparent;
+}
+.hide {
+  display: none;
+}

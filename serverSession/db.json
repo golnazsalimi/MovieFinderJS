@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "clientName": "goli",
+      "email": "g.projectsgs@gmail.com",
+      "password": "1302953",
+      "favorite": [
+        "tt0848228",
+        "tt4154756"
+      ],
+      "id": 1
+    },
+    {
+      "clientName": "himi",
+      "email": "himi@gmail.com",
+      "password": "1312897",
+      "favorite": [
+        "tt3766394",
+        "tt9454892",
+        "tt0150742",
+        "tt8080122"
+      ],
+      "id": 2
+    }
+  ]
+}
